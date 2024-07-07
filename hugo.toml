@@ -1,4 +1,3 @@
-baseURL = "env(CF_PAGES_URL)"
 languageCode = "en-us"
 title = "My Hugo Site"
 theme = "ananke"
